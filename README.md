@@ -10,11 +10,5 @@
   <a href="mailto:contato@valtersilva.dev.br">Email</a>
 </p>
 
-### Projetos em destaque
 
-- [OrcaAi](https://github.com/ValterVS/OrcaAi) · Projeto em Java.
-- [banking-api](https://github.com/ValterVS/banking-api) · API para simular operações de um banco digital.
-- [Central de Currículos](https://github.com/ValterVS/Central-de-Curriculos) · Projeto acadêmico para aproximar empresas e universitários.
 
-<sub>Conceito de perfil em terminal inspirado em <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew6rant</a>. Retrato e implementação personalizados para ValterVS.</sub>
-# ValterVS

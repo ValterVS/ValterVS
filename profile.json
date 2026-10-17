@@ -1,0 +1,15 @@
+{
+  "username": "ValterVS",
+  "name": "Valter Silva",
+  "headline": "Java • Full Stack • IA/ML",
+  "location": "Lins, São Paulo · Brasil",
+  "education": "Engenharia de Software",
+  "languages": "Java, Python, TypeScript, JavaScript",
+  "frontend": "React, Next.js, Tailwind CSS",
+  "backend": "Node.js, FastAPI, PostgreSQL",
+  "tools": "Git, Docker, AWS, Google Cloud",
+  "focus": "Backend, aplicações de LLM e RAG",
+  "portfolio": "https://valtersilva.dev.br",
+  "linkedin": "https://www.linkedin.com/in/valter-silva-eng/",
+  "email": "contato@valtersilva.dev.br"
+}

@@ -4537,7 +4537,7 @@
 <text x="448" y="214" fill="#655979" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Formação</text>
 <text x="565" y="214" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Engenharia de Software</text>
 <text x="448" y="239" fill="#655979" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Linguagens</text>
-<text x="565" y="239" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Java, Python, TypeScript, JavaScript</text>
+<text x="565" y="239" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Java, Spring Boot, TypeScript</text>
 <text x="448" y="264" fill="#655979" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Frontend</text>
 <text x="565" y="264" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">React, Next.js, Tailwind CSS</text>
 <text x="448" y="289" fill="#655979" font-family="Consolas, Liberation Mono, monospace" font-size="13" font-weight="normal">Backend</text>
@@ -4562,7 +4562,7 @@
 </a>
 <text x="448" y="489" fill="#6d28d9" font-family="Consolas, Liberation Mono, monospace" font-size="12" font-weight="bold">03 / GITHUB PÚBLICO</text>
 <path d="M448 499H1044" stroke="#ded4ee"/>
-<text x="448" y="527" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="25" font-weight="bold">14</text>
+<text x="448" y="527" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="25" font-weight="bold">15</text>
 <text x="448" y="548" fill="#655979" font-family="Consolas, Liberation Mono, monospace" font-size="12" font-weight="normal">repositórios</text>
 <text x="653" y="527" fill="#241b38" font-family="Consolas, Liberation Mono, monospace" font-size="25" font-weight="bold">0</text>
 <text x="653" y="548" fill="#655979" font-family="Consolas, Liberation Mono, monospace" font-size="12" font-weight="normal">estrelas</text>

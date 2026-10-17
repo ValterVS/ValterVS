@@ -1,5 +1,5 @@
 {
-  "repositories": 14,
+  "repositories": 15,
   "followers": 1,
   "stars": 0,
   "since": "2022",
@@ -8,6 +8,7 @@
     "C#": 1,
     "TypeScript": 3,
     "Java": 3,
+    "Wolfram Language": 1,
     "JavaScript": 1,
     "Python": 1,
     "CSS": 1
